@@ -1,5 +1,5 @@
-As a B&B owner
-I want to be able to manage multiple rooms and their bookings
+As a B&B owner   
+I want to be able to manage multiple rooms and their bookings    
 So that I can track bookings across multiple rooms
 
 Features include:
