@@ -1,7 +1,7 @@
-Link: https://github.com/mwinteringham/restful-booker-platform/issues/64
-Summary: Can duplicate room numbers
-Status: Closed
-Not Implemented: We've discussed this as a feature and decided not to implement as it complicates our training workshop tied to the app.
+Link: https://github.com/mwinteringham/restful-booker-platform/issues/64    
+Summary: Can duplicate room numbers    
+Status: Closed Not a bug
+
 
 There is no uniqueness check on room numbers, and as a result rooms can be created with the same room number.
 
@@ -15,3 +15,6 @@ Room created
 
 Expected Result:
 Should error and enforce room# uniqueness
+
+
+Comment: We've discussed this as a feature and decided not to implement as it complicates our training workshop tied to the app.
