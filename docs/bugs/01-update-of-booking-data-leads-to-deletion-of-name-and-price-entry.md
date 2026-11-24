@@ -1,3 +1,5 @@
+https://github.com/mwinteringham/restful-booker-platform/issues/29
+
 Summary: Update of booking data leads to deletion of name and price entry
  #29      
 
