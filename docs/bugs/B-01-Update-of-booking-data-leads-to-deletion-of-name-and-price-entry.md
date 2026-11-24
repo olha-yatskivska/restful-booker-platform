@@ -1,6 +1,6 @@
    
 id: B-01    
-Summary: Update of booking data leads to deletion of name and price entry #29
+Summary: Update of booking data leads to deletion of name and price entry #29    
 Status: Closed 
 
 Steps to reproduce:
