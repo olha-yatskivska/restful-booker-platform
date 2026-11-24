@@ -1,5 +1,6 @@
-Id: B-02
-Summary: Initialisation fails when Timezone not set to UK timezones  #33
+Id: B-02   
+Summary: Initialisation fails when Timezone not set to UK timezones  #33   
+Status: Closed
 
 Running the shell script will fail if the system's timezone is set to be outside the UK (eg, if you're from Ecuador)
 
