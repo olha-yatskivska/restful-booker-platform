@@ -1,5 +1,6 @@
+Link: https://github.com/mwinteringham/restful-booker-platform/issues/49   
 Summary: First name and Last name accept numbers as valid names
- #49
+
 Status: Closed
 
 Currently if I provide a single number char for either of first name and last name, the system accepts as valid name   .
