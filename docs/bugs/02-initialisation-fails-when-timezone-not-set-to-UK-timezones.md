@@ -1,4 +1,4 @@
-Id: B-02   
+
 Summary: Initialisation fails when Timezone not set to UK timezones  #33   
 Status: Closed
 
