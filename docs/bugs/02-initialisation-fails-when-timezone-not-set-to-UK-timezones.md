@@ -1,3 +1,4 @@
+Link: https://github.com/mwinteringham/restful-booker-platform/issues/33
 
 Summary: Initialisation fails when Timezone not set to UK timezones  #33   
 Status: Closed
