@@ -1,4 +1,5 @@
 Summary: Check in and checkout dates are not validated #48    
+Status: Closed
 
 When I provide checkout date which is before checkin date, it will accept me happily.
 
