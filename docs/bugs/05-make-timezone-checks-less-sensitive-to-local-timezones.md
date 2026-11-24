@@ -1,7 +1,7 @@
 Link: https://github.com/mwinteringham/restful-booker-platform/issues/50
 
-Summary: Make timezone checks less sensitive to local timezones
-Status: Closed
+Summary: Make timezone checks less sensitive to local timezones   
+Status: Closed   
 Reopened with: https://github.com/mwinteringham/restful-booker-platform/issues/102
 
 Environment:
