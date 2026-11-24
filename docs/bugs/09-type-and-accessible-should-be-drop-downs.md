@@ -1,5 +1,5 @@
-Link: https://github.com/mwinteringham/restful-booker-platform/issues/61
-Summary: Type and Accessible should be drop-downs
+Link: https://github.com/mwinteringham/restful-booker-platform/issues/61    
+Summary: Type and Accessible should be drop-downs     
 Status: Closed
 
 
